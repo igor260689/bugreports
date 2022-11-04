@@ -19,4 +19,9 @@
 При совершении действия музыка воспроизводится, и кнопки должны быть.
 
 Скриншоты:
-![Скриншот1](https://github.com/igor260689/Screenshots/blob/main/photo_2022-11-04_18-10-24.jpg)
+
+![](https://github.com/igor260689/Screenshots/blob/main/photo_2022-11-04_18-10-24.jpg)
+
+![](https://github.com/igor260689/Screenshots/blob/main/photo_2022-11-04_18-10-25%20(2).jpg)
+
+![](https://github.com/igor260689/Screenshots/blob/main/photo_2022-11-04_18-10-25.jpg)
