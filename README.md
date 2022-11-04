@@ -26,11 +26,11 @@
 
 ### Скриншоты:
 
-![](https://github.com/igor260689/Screenshots/blob/main/photo_2022-11-04_18-10-24.jpg)
+![](https://github.com/igor260689/bugreports/blob/main/photo_2022-11-04_18-10-24.jpg)
 
-![](https://github.com/igor260689/Screenshots/blob/main/photo_2022-11-04_18-10-25%20(2).jpg)
+![](https://github.com/igor260689/bugreports/blob/main/photo_2022-11-04_18-10-25%20(2).jpg)
 
-![](https://github.com/igor260689/Screenshots/blob/main/photo_2022-11-04_18-10-25.jpg)
+![](https://github.com/igor260689/bugreports/blob/main/photo_2022-11-04_18-10-25.jpg)
 
 
 # Ипотечный калькулятор
@@ -60,7 +60,34 @@
 
 ### Скриншоты:
 
-![](https://github.com/igor260689/Screenshots/blob/main/photo_2022-11-04_18-12-55.jpg)
+![](https://github.com/igor260689/bugreports/blob/main/photo_2022-11-04_18-12-55.jpg)
 
 
-# 
+# Трекер подписок
+
+## Проблемы с адаптивностью под устройство
+
+### Шаги воспроизведения
+
+1) Открыть приложение;
+2) Появляется всплывающеее окно «разрешить уведомления»
+
+### Фактический результат
+
+При совершении действия окно отображается не корректно, а именно кнопки «запретить» и «разрешить» перекрываются панелью браузера.
+
+### Ожидаемый результат
+
+Кнопки должны отображаться над панелью.
+
+#### Продукт: m.vk.com
+
+#### Устройство: Iphone SE 2020
+
+#### Платформы: iOS
+
+#### Версии ОС: iOS 16
+
+### Скриншоты:
+
+![](https://github.com/igor260689/bugreports/blob/main/photo_2022-11-04_18-48-42.jpg)
