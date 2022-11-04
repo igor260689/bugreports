@@ -30,8 +30,6 @@
 
 ![](https://github.com/igor260689/bugreports/blob/main/photo_2022-11-04_18-10-25%20(2).jpg)
 
-![](https://github.com/igor260689/bugreports/blob/main/photo_2022-11-04_18-10-25.jpg)
-
 
 # Ипотечный калькулятор
 
